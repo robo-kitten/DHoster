@@ -1,0 +1,3 @@
+# DHoster
+
+It is a Decentralized web hosting platform for static webpage....
